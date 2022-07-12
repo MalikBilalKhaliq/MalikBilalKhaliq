@@ -50,11 +50,13 @@ Passionate about software development started development after learning C/C++ w
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/MalikBilalKhaliq"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikBilalKhaliq&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="http://www.github.com/MalikBilalKhaliq"><img src="https://activity-graph.herokuapp.com/graph?username=MalikBilalKhaliq&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Top Languages
+<b>Top Repositories</b>
 
-<a href="https://github.com/MalikBilalKhaliq" align="left"><img src="#" alt="Top Languages" /></a>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
