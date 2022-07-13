@@ -54,10 +54,6 @@ Passionate about software development started development after learning C/C++ w
 
 <a href="http://www.github.com/MalikBilalKhaliq"><img src="https://activity-graph.herokuapp.com/graph?username=MalikBilalKhaliq&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/bilalone7so"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
