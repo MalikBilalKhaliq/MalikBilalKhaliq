@@ -10,7 +10,7 @@ Passionate about software development started development after learning C/C++ w
 * 🖥️  See my portfolio at [https://bilalkhaliq.saeedbrotherselectronics.com/](http://typescript.d2b4umkg7pzf00.amplifyapp.com/)
 * ✉️  You can contact me at [bilalone7@gmail.com](mailto:bilalone7@gmail.com)
 * 🚀  I'm currently working on [Full Stack Developer DH Solutions](https://www.dhsolutions.fr/)
-* 🧠  I'm learning Backend with NodeJS
+* 🧠  I'm mostly working Backend with NodeJS and frontend using react.
 * 🤝  I'm open to collaborating on Crypto Trading, E-commerce and full stack web development
 * ⚡  Love to work on projects based on Artificial Intelligence and Data science in the future.
 
