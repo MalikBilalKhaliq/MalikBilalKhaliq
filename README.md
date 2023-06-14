@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Passionate about software development started development after learning C/C++ while doing a bachelor's in Computer science. I have a strong understanding of core concepts in computers science-specific to software development. Proficient in web development technologies such as react, typescript and Node also worked in PHP, C# and python. Eager to work in an ambitious team in order to solve complex problems in programming.
+A passionate software developer focusing on cloud-based solutions I have a working experience in technologies such as NODEJS, C#, Python, C++, Javascript, SQL, MongoDB, REACT, Redux, Typescript, GIT, Bash, and a basic understanding of Docker, AWS and Kubernetes, etc. I have knowledge of both monolithic and microservice architecture.
 
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at [https://bilalkhaliq.saeedbrotherselectronics.com/](http://typescript.d2b4umkg7pzf00.amplifyapp.com/)
